@@ -6,19 +6,5 @@
 
 ## 🔧Languages and Tools
 
-<p align="center">
-<img width="5%" src="./img/icons/javascript.png">
-<img width="5%" src="./img/icons/html-blanco.png">
-<img width="5%" src="./img/icons/css-blanco.png">
-<img width="5%" src="./img/icons/React.png">
-<img width="5%" src="./img/icons/Redux.png">
-<img width="5%" src="./img/icons/NodeJs.png">
-<img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-<img width="5%" src="./img/icons/sequelize.png">
-<img width="5%" src="./img/icons/postgreSQL.png">
-<img width="5%" src="./img/icons/Git.png">
-<img width="5%" src="./img/icons/heroku.png">
-<img width="5%" src="./img/icons/vercel.png">
-<img width="5%" src="./img/icons/postman.png">
 </p>
 
