@@ -6,7 +6,9 @@
 <h4 align="center"> Soy desarrollador web fullstack, comenzé en el mundo de la programacion en el año 2022 </h4>
 
 ## 🔧Languages and Tools
- <img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+<div align ="center" display="flex"> 
+<img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
  <img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" />
+</div> 
 </p>
 
