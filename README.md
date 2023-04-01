@@ -9,6 +9,7 @@
 <div align ="center" display="flex"> 
 <img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
  <img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" />
+ <img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
 </div> 
 </p>
 
