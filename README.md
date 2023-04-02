@@ -11,6 +11,7 @@
  <img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" />
  <img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
   <img align="center" width="70" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
+   <img align="center" width="70" src="https://e7.pngegg.com/pngimages/669/447/png-clipart-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-thumbnail.png" />
 </div> 
 </p>
 
