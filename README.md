@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Matias Nicolas Hernandez</h1>
 <h3 align="center">Full stack web development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matias-hernandez01" alt="matias-hernandez01" /></a> </p>
+<p align="left"> ![](https://github-profile-trophy.vercel.app/?username=matias-hernandez01&theme=discord&no-frame=false&no-bg=true&margin-w=4) </p>
 
 - 🔭 I’m currently working on **personal projects to gain experience**
 
