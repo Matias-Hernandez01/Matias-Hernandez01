@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matiashernandez00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matiashernandez00/" height="30" width="40" /></a>
 <a href="https://instagram.com/matias.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matias.dev" height="30" width="40" /></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://es.stackoverflow.com/users/325290/matias-hernandez)                                                                                    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
