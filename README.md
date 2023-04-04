@@ -1,5 +1,5 @@
  
-<div width="100%" height="auto">
+<div width="100%" height="700">
    <img  width="100%" height="auto"  src="ensigna.png"/>
    </div>
 <p align="center" width="300">
