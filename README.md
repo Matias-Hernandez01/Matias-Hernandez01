@@ -21,9 +21,7 @@
 <h3 align="left" >Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matiashernandez00/" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="https://www.linkedin.com/in/matiashernandez00/"alto="30" ancho="40" /></a>
-<a href="https://instagram.com/matias.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/instagram.svg" alt="matias.dev" height="30" width="40" /></a> </p> <p><
-img
+<a href="https://instagram.com/matias.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/instagram.svg" alt="matias.dev" height="30" width="40" /></a> </p><p><
+img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matias-hernandez01&show_icons=true&locale=en&layout=compact" alt="matias-hernandez01" /></ p>
 
-align ="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matias-hernandez01&show_icons=true&locale=en&layout=compact" alt="matias-hernandez01" /></ p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=matias-hernandez01&show_icons=true&locale=en" alt="matias-hernandez01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=matias-hernandez01&show_icons=true&locale=en" alt="matias-hernandez01"/></p>
