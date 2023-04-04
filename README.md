@@ -4,6 +4,7 @@
    
 <p align="center" width="300">
    <h4 align="center"> Soy desarrollador web fullstack </h4>
+ </p>
    <h2> Estudios y formación: 🖥️📚 </h2>
    
 <div display="flex" >
@@ -14,7 +15,6 @@
     <h5>Actualmente me encuentro cursando la Tecnicatura Universitaria en Desarrollo Web</h5>
 </div>
 
-</p>
 
 ## 🔧Languages and Tools
 
