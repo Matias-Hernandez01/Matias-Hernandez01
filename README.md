@@ -1,4 +1,4 @@
-<div display="flex" align="center" heigh="600px">
+<div display="flex" align="center" heigh="400px">
    <img  width="100%"  src="ensigna.png"/>
    </<div>
 <p align="center" width="300">
