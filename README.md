@@ -16,5 +16,4 @@
 </div> 
 </p>
 ## 📊 GitHub Stats
-<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=cassirambd&show_icons=true&locale=en&theme=tokyonight" alt="cassirambd" /></p>
-<p>&nbsp;<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassirambd&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="cassirambd" /></p>
+
