@@ -5,7 +5,7 @@
 <p align="center" width="300">
    <h4 align="center"> Soy desarrollador web fullstack </h4>
  </p>
-   <h2> Estudios y formación: 🖥️📚 </h2>
+ <h2 align="center"> Estudios y formación: 🖥️📚 </h2>
    
 <div display="flex" >
   <a href="https://www.unlam.edu.ar/" target="_blank" margin-right="20px">
