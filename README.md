@@ -1,6 +1,6 @@
  
 
-   <img src="1.png"></img>
+   <img src="Banner.png"></img>
    
 <p align="center" width="300">
    <h4 align="center"> Soy desarrollador web fullstack </h4>
