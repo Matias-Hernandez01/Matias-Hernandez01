@@ -6,19 +6,6 @@
 <h3 align="center">Full stack web development</h3>
 
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://es.stackoverflow.com/users/325290/matias-hernandez) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matias-hernandez01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matias-hernandez01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matias-hernandez01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=matias-hernandez01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://github-profile-trophy.vercel.app/?username=matias-hernandez01&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
 - 🔭 I’m currently working on **personal projects to gain experience**
 
 - 🌱 I’m currently learning **Next.JS for React, and Java for the university**
@@ -27,11 +14,12 @@
 
 - 📫 How to reach me **matias2k00@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://es.stackoverflow.com/users/325290/matias-hernandez) 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matiashernandez00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matiashernandez00/" height="30" width="40" /></a>
 <a href="https://instagram.com/matias.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matias.dev" height="30" width="40" /></a>
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://es.stackoverflow.com/users/325290/matias-hernandez)                                                                                    
+                                                                                    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
