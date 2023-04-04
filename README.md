@@ -5,8 +5,7 @@
  <h2> Estudios y formación: 🖥️📚 </h2>
   <p align="center">
  
-  <img width="200px" heigth="200px" src="https://scontent.faep26-1.fna.fbcdn.net/v/t1.6435-9/33381983_1671884506214003_941680221122199552_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHtHBV4UHdaXYpO-Se6Nj4kV3nUbczeQnRXedRtzN5CdE9z2MdqLgIZ29wDzLN-OBhEL-Bsye7JL4ph0Oa_cs5W&_nc_ohc=UFPqCrus704AX9v1hYp&_nc_ht=scontent.faep26-1.fna&oh=00_AfAC4amAUAeA7BlHikxPMlbRm8cnrPAzDQcc0QW-32bCeA&oe=6452E1DE" alt="Imagen de la UNLaM" />
-  Actualmente me encuentro cursando la Tecnicatura Universitaria en Desarrollo Web, en la Universidad Nacional de la Matanza(UNLAM), actualmente estoy viendo la tecnologia de Java en la asignatura Programacion Basica I.
+  <img width="200px" heigth="200px" src="https://scontent.faep26-1.fna.fbcdn.net/v/t1.6435-9/33381983_1671884506214003_941680221122199552_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHtHBV4UHdaXYpO-Se6Nj4kV3nUbczeQnRXedRtzN5CdE9z2MdqLgIZ29wDzLN-OBhEL-Bsye7JL4ph0Oa_cs5W&_nc_ohc=UFPqCrus704AX9v1hYp&_nc_ht=scontent.faep26-1.fna&oh=00_AfAC4amAUAeA7BlHikxPMlbRm8cnrPAzDQcc0QW-32bCeA&oe=6452E1DE" alt="Imagen de la UNLaM" />Actualmente me encuentro cursando la Tecnicatura Universitaria en Desarrollo Web, en la Universidad Nacional de la Matanza(UNLAM), actualmente estoy viendo la tecnologia de Java en la asignatura Programacion Basica I.
 </p>
  
 ## 🔧Languages and Tools
