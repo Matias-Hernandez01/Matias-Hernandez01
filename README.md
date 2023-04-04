@@ -1,5 +1,5 @@
-<div display="flex" align="center" height="400px">
-   <img  width="100%"  src="ensigna.png"/>
+<div width="100%" height="auto">
+   <img  width="100%" height="auto"  src="ensigna.png"/>
    </<div>
 <p align="center" width="300">
    <img align="center" width="200" src="https://media.licdn.com/dms/image/D4D03AQH0pwDABZWU-w/profile-displayphoto-shrink_800_800/0/1666188187967?e=1685577600&v=beta&t=i-AdTEYZkvRBcMzCYhVgvmA4P24iJymbiEA98rJSDwg" />
