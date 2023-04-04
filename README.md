@@ -6,10 +6,9 @@
    <h4 align="center"> Soy desarrollador web fullstack </h4>
    <h2> Estudios y formación: 🖥️📚 </h2>
    
-<div display="flex" align="center" width="100%" flex-direction="column">
+<div display="flex">
   <a href="https://www.unlam.edu.ar/" target="_blank" margin-right="20px">
-    <img  flex-wrap="wrap" max-width="100%"
- src="https://scontent.faep26-1.fna.fbcdn.net/v/t1.6435-9/33381983_1671884506214003_941680221122199552_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHtHBV4UHdaXYpO-Se6Nj4kV3nUbczeQnRXedRtzN5CdE9z2MdqLgIZ29wDzLN-OBhEL-Bsye7JL4ph0Oa_cs5W&_nc_ohc=UFPqCrus704AX9v1hYp&_nc_ht=scontent.faep26-1.fna&oh=00_AfAC4amAUAeA7BlHikxPMlbRm8cnrPAzDQcc0QW-32bCeA&oe=6452E1DE" alt="Imagen de la UNLaM" >
+    <img  align="center" src="https://scontent.faep26-1.fna.fbcdn.net/v/t1.6435-9/33381983_1671884506214003_941680221122199552_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHtHBV4UHdaXYpO-Se6Nj4kV3nUbczeQnRXedRtzN5CdE9z2MdqLgIZ29wDzLN-OBhEL-Bsye7JL4ph0Oa_cs5W&_nc_ohc=UFPqCrus704AX9v1hYp&_nc_ht=scontent.faep26-1.fna&oh=00_AfAC4amAUAeA7BlHikxPMlbRm8cnrPAzDQcc0QW-32bCeA&oe=6452E1DE" alt="Imagen de la UNLaM" >
   </a>
   <div>
     <h4>Universidad Nacional de La Matanza</h4>
