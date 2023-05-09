@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **personal projects to gain experience**
 
-- 🌱 I’m currently learning **Next.JS for React, and Java for the university**
+- 🌱 I’m currently learning **Java in the university**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/matiashernandez00/](https://www.linkedin.com/in/matiashernandez00/)
 
@@ -26,6 +26,6 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=matias-hernandez01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=matias-hernandez01&theme=dark&hide_border=false)<br/>
 <br/>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matias-hernandez01&show_icons=true&locale=en&layout=compact" alt="matias- hernandez01" /></p>
 
 <h3 align="center">NUNCA MUCHO, COSTÓ POCO</h3>
