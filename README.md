@@ -4,9 +4,9 @@
 <h3 align="center">Full stack web development</h3>
 
 
-- 🔭 I’m currently working on **personal projects to gain experience**
+- 🔭 I’m currently working on **Final Group Project at Henry**
 
-- 🌱 I’m currently learning **Java in the university**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/matiashernandez00/](https://www.linkedin.com/in/matiashernandez00/)
 
