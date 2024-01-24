@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Radtek - Ecommerce**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I am collaborating with **4 people**
 
-- 👨‍💻 All of my projects are available at [https://deploy-portfolio-ten.vercel.app/](https://deploy-portfolio-ten.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://deploy-portfolio-ten.vercel.app/](https://matiashernandez.vercel.app/)
 
 - 💬 Ask me about **creation of projects in the PERN stack**
 
