@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matias-hernandez01" alt="matias-hernandez01" /></a> </p>
 
-- 🔭 I’m currently working on **Radtek - Ecommerce**
+- 🔭 I’m currently working on **Desarrollo Web Full Stack - APX**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Full Stack avanzado**
 
 - 👯 I am collaborating with **4 people**
 
